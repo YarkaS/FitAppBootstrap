@@ -1,0 +1,27 @@
+.header{
+  height: 400px;
+  text-align: center;
+  display:block;
+  color: #add8e6;
+  padding: 150px 0;
+  background-image: url("../images/studio.jpg");
+  background-size: cover;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+
+
+}
+.main{
+ background-color:#e1d8d1;
+ color:#6b4947
+}
+.about{
+  background-color:lightgrey;
+  text-align:center;
+  color:blue;
+}
+.footer{
+  background-color:lightblue;
+  text-align:center;
+  height:150px;
+  
+}
